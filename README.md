@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammed Salman J!</h1>
+<h1 style=" font-family: 'Tahoma';"><b>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px">  I'm Mohammed Salman J! </b></h1>
+
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🌱 I’m currently pursuing **Master of Science in Software Systems**
